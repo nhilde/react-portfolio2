@@ -1,3 +1,7 @@
+body {
+    height: 100%;
+}
+
 .contactHeader {
     text-align: center;
     font-size: 100px;
@@ -49,7 +53,7 @@
 
 .footer {
     margin: 20px;
-    position: fixed;
+    /* position: fixed; */
     bottom: 5px;
     
 }

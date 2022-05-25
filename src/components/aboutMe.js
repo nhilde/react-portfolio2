@@ -37,8 +37,10 @@ function AboutMe() {
            
             <div className='row mainRow justify-content-center'>
                 <div className='col-6 secondCol'>
-                    <p className='textArea'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, eius, quasi animi repudiandae consequatur
-                     dicta itaque nobis tempora quaerat libero iste exercitationem placeat, praesentium hic officia obcaecati dolor harum? Harum!</p>
+                    <p className='textArea'>My name is Noah and i'm from Northeast Philadelphia. I am a fullstack web developer, currently finishing up the Penn LPS Coding Bootcamp.
+                    I'm a huge fan of music and sports and i'm super excited for the world cup this summer. I love learning new things and find React especially interesting. Coding and web development really
+                    drew me in with the idea of building really interesting projects and being able to put a creative touch on them. I'm working on a few passion projects on the side to expand
+                    my understanding of different technologies and would eventually love to build something I can share with the world.</p>
                 </div>
             </div>
 
